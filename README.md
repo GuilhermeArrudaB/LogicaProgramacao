@@ -1,23 +1,23 @@
 Este repositório contém exercícios das aulas de Lógica de programação
 
-Aula01 - Teoria
-Aula02 - Teoria
-Aula03 - Teoria
-Aula04 - 
-Aula05 -
-Aula06 -
-Aula07 -
-Aula08 -
-Aula09 -
-Aula10 -
-Aula11 -
-Aula12 -
-Aula13 -
-Aula14 -
-Aula15 -
-Aula16 -
-Aula17 -
-Aula18 -
-Aula19 -
-Aula20 -
-Aula21 -
+Aula01 - Teoria<br>
+Aula02 - Teoria<br>
+Aula03 - Teoria<br>
+Aula04 -<br>
+Aula05 -<br>
+Aula06 -<br>
+Aula07 -<br>
+Aula08 -<br>
+Aula09 -<br>
+Aula10 -<br>
+Aula11 -<br>
+Aula12 -<br>
+Aula13 -<br>
+Aula14 -<br>
+Aula15 -<br>
+Aula16 -<br>
+Aula17 -<br>
+Aula18 -<br>
+Aula19 -<br>
+Aula20 -<br>
+Aula21 -<br>
