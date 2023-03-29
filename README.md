@@ -3,7 +3,7 @@ Este repositório contém exercícios das aulas de Lógica de programação
 Aula01 - Teoria<br>
 Aula02 - Teoria<br>
 Aula03 - Teoria<br>
-Aula04 -<br>
+Aula04 - Lista de exercicios utilizando condições e listas<br>
 Aula05 -<br>
 Aula06 -<br>
 Aula07 -<br>
